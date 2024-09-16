@@ -81,7 +81,7 @@ html {
   font-size: 20px;
   text-align: center;
   background-color: transparent;
-  border: 2px solid white;
+  border: 1px solid white;
   border-radius: 25px;
   margin: 8px 6px;
   padding: 6px;
@@ -90,7 +90,7 @@ html {
 
 .link>a:hover {
   transition: ease-in-out .2s;
-  background-color: #eaeaea;
+  background-color: white;
 }
 
 .footer {
@@ -120,5 +120,6 @@ marquee {
   
   .profile>img {
     margin-top: 10em;
+    color: black;
   }
 }
