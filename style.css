@@ -141,7 +141,7 @@ marquee {
     color: white;
     padding: 5px 10px;
     display: flex;
-    font-size: 14px;
+    font-size: 15px;
     justify-content: center;
     align-items: center;
   }
