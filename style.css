@@ -145,7 +145,7 @@ marquee {
     justify-content: center;
   }
   
-  .share-btn:hover {
+  .share-btn>p:hover {
     color: black;
   }
 }
