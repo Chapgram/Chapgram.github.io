@@ -79,7 +79,7 @@ profile>h4 {
 }
 
 .link>a {
-  width: 300px;
+  width: 275px;
   text-decoration: none;
   color: white;
   font-size: 15px;
@@ -120,7 +120,7 @@ marquee {
 }
 @media screen and (min-width: 500px) {
   .link>a {
-    width: 700px;
+    width: 600px;
   }
   
   .profile>img {
