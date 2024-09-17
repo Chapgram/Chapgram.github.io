@@ -139,9 +139,9 @@ marquee {
 
   .share-btn>p {
     color: white;
-    padding: 5px;
+    padding: 5px 10px;
     display: flex;
-    font-size: 17px;
+    font-size: 14px;
     justify-content: center;
   }
   
