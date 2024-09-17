@@ -27,10 +27,15 @@ html {
   right: 0;
   width: 30px;
   height: 30px;
+  text-decoration-line: none;
 }
 
 .share-btn:hover {
   background-color: #eaeaea;
+}
+
+.share-btn>p {
+  display: none;
 }
 
 #bg-video {
@@ -125,5 +130,21 @@ marquee {
   
   .profile>img {
     margin-top: 10em;
+  }
+
+    .share-btn {
+    width: 180px;
+  }
+
+  .share-btn>p {
+    padding: 5px 10px;
+    display: flex;
+    font-size: 17px;
+    justify-content: center;
+    text-decoration-line: none;
+  }
+  
+  .share-btn:hover {
+    color: black;
   }
 }
